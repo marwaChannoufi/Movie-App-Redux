@@ -1,0 +1,2 @@
+
+              // <Route exact path='/detail/:movie' component={Details} />
